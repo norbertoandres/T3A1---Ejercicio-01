@@ -14,7 +14,7 @@ Procesos:
        - Resumen de los datos del estudiante con su promedio 
        
        +-------------------------------------------------------+
-       | - Estudiante: NORNERTO ANDRES LEAL 
+       | - Estudiante: NORBERTO ANDRES LEAL 
        | - gupo: 1A        Carrera: Ingenieria Informatica 
        | - 
        | - Asignatura                      Calificacion        
