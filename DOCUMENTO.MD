@@ -19,7 +19,7 @@ Procesos:
        | - 
        | - Asignatura                      Calificacion        
        | - FUNDAMENTOS DE PROGRAMACION      75
-       | - MATEMSTICAS DISCRETAS            85
+       | - MATEMATICAS DISCRETAS            85
        +------------------------------------------------------+
        - Promedio:                          80
        
