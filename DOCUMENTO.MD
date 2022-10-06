@@ -25,7 +25,10 @@ Procesos:
        
        
        
-       
-       
-       ## Etapa 3. Diseño de la solucion 
+        ## Etapa 3. Diseño de la solucion 
        Diagrama de la clase 
+       ![](https://github.com/norbertoandres/T3A1---Ejercicio-01/blob/main/T3A1.png)
+       
+       # Etapa 04. Diseño de la solucion 
+       
+       
